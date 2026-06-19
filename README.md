@@ -14,7 +14,7 @@
 - Downloaded Ubuntu Server 24.04 LTS ISO for future test VMs
 - Created a test VM shell to get familiar with the VM creation wizard
 
-**Screenshot:** ![VirtualBox Manager](testVM/virtualbox-manager.png)
+**Screenshot:** ![VirtualBox Manager](Test-VM/virtualbox-manager.png)
 
 
 
